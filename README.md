@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **A Terraria Mod Menu**
 
-- 🌱 I’m currently learning **More about IDA Pro, as reversing is really interesting**
+- 🌱 I’m currently learning **More about IDA Pro, reversing is really interesting**
 
 - 💬 Ask me about **Anything regarding to c++**
 
