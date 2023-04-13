@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seoulxss&label=Profile%20views&color=0e75b6&style=flat" alt="seoulxss" /> </p>
 
-- 🔭 I’m currently working on **A Terraria Mod Menu**
+- 🔭 I’m currently working on **A few projects**
 
 - 🌱 I’m currently learning **More about IDA Pro, reversing is really interesting**
 
