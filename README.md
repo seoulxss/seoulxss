@@ -8,7 +8,7 @@ I've been learning c++ now for 3 years I think and I'm looking forward to learn 
 
 *   🌍  I'm based in Germany
 *   🖥️  See my portfolio at [Not done](http://seouless.de)
-*   🧠  I'm learning c++ and reversing
+*   🧠  I'm learning c++ and reverse engineering
 *   🤝  I'm open to collaborating on interesting projects
 
 ### Skills 
