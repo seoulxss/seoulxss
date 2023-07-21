@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nick
 ============================================================================================================================
 
-Backend Developer
+Just a c++ enthusiast
 -----------------
 
 I've been learning c++ now for 3 years I think and I'm looking forward to learn even more! I'm also very interested in reverse engineering.
