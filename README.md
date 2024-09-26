@@ -6,6 +6,8 @@ Just a c++ enthusiast
 
 I've been learning c++ now for 4-5 years I think and I'm looking forward to learn even more! I'm also very interested in reverse engineering. Im currently reversing some Windows API functions to create a very low-level Memory Manipulation library. The goal is to provide low level funtionality with high level abstraction. E.g. Loading a Dynamic Linked Library (Dll) with LoadLibraryA, this is also possible with a lower function called "LdrLoadDll" -> "LdrpLoadDll" -> "LdrpLoadDllInternal". If you're interested, you can visit my page and read more about it on the Blogs tab! (If the website doesn't work, it's because it's not done yet.). I'm also looking forward to get into the Windows kernel, as it's a really interesting topic! I'm also very interested in reversersing Malware. 
 
+Despite those topics, I also have very simple and "normal" programs written on my github. E.g. ConfigLib or IAKAR.
+
 *   🌍  I'm based in Germany
 *   🖥️  See my portfolio at [Not done](http://seouless.de)
 *   🧠  I'm learning c++ and reverse engineering (I'm addicted to c++20)
