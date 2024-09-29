@@ -15,6 +15,7 @@ Im currently also writing a program to convert multiple files into another forma
 
 Despite those topics, I also have very simple and "normal" programs written on my github. E.g. ConfigLib or IAKAR.
 
+<h2>Everything else </h2>
 *   🌍  I'm based in Germany
 *   🖥️  See my portfolio at [Not done](http://seouless.de)
 *   🧠  I'm learning c++ and reverse engineering (I'm addicted to c++20)
