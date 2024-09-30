@@ -13,7 +13,7 @@ Im currently reversing some Windows API functions to create a very low-level Mem
 <h3> ImageManip </h3>
 Im currently also writing a program to convert multiple files into another format (png, jpg) etc.. This is done with the library of ImageMagick and Qt. Furthermore I added also the feature to manipulate medatada directly. If you want to see more of this project, just go into my repos.
 
-Despite those topics, I also have very simple and "normal" programs written on my github. E.g. ConfigLib or IAKAR.
+<p>Despite those topics, I also have very simple and "normal" programs written on my github. E.g. ConfigLib or IAKAR. </p>
 
 <h2>Everything else </h2>
 
