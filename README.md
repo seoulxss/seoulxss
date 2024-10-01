@@ -10,7 +10,7 @@ I've been learning c++ now for 4-5 years I think and I'm looking forward to lear
 <h3> MemLib </h3>
 Im currently reversing some Windows API functions to create a very low-level Memory Manipulation library. The goal is to provide low level funtionality with high level abstraction. E.g. Loading a Dynamic Linked Library (Dll) with LoadLibraryA, this is also possible with a lower function called "LdrLoadDll" -> "LdrpLoadDll" -> "LdrpLoadDllInternal". If you're interested, you can visit my page and read more about it on the Blogs tab! (If the website doesn't work, it's because it's not done yet.). I'm also looking forward to get into the Windows kernel, as it's a really interesting topic!
 
-<h3> ImageManip </h3>
+<h3> ImageEdit</h3>
 Im currently also writing a program to convert multiple files into another format (png, jpg) etc.. This is done with the library of ImageMagick and Qt. Furthermore I added also the feature to manipulate medatada directly. If you want to see more of this project, just go into my repos.
 <br> </br>
 <p>Despite those topics, I also have very simple and "normal" programs written on my github. E.g. ConfigLib or IAKAR. </p>
