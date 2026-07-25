@@ -9,7 +9,7 @@ I've been learning C++ for about 4-5 years now and I'm looking forward to learni
 ### 🔧 MemLib
 I'm currently reversing some Windows API functions to create a very low-level memory manipulation library. The goal is to provide low-level functionality with high-level abstraction. For example: loading a Dynamic Link Library (DLL) with `LoadLibraryA` is also possible with a lower-level function chain: `LdrLoadDll` → `LdrpLoadDll` → `LdrpLoadDllInternal`.
 
-If you're interested, check out my [website](https://seouless.dev) (note: the domain is still being set up) and read more about it on the Blog tab!
+If you're interested, check out my [website](https://seouless.dev) and read more about it on the Blog tab!
 
 I'm also looking forward to getting into the Windows kernel, as it's a really interesting topic.
 
