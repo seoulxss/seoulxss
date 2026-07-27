@@ -13,9 +13,6 @@ If you're interested, check out my [website](https://seouless.dev) and read more
 
 I'm also looking forward to getting into the Windows kernel, as it's a really interesting topic.
 
-### 🖼️ ImageEdit
-A program to convert multiple files into other formats (PNG, JPG, etc.), built with ImageMagick and Qt. It also includes a feature to manipulate metadata directly. Check out my repos for more details.
-
 ---
 
 Besides those topics, I also have a few simpler, "normal" programs on my GitHub — e.g. **ConfigLib** or **IAKAR**.
